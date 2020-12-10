@@ -28,14 +28,15 @@ Ensuite il ne vous reste plus qu'a exécuté le lancement du serveur avec :
 npm run dev
 ```
 
-Le projet est relié a une base de donnée Firebase pour la création de fiche de jeux. Les caractéristique de la fiche rende le jeux 
+Le projet est relié à une base de données Firebase pour la création de fiche de jeux. Les caractéristiques de la fiche rendent le jeu 
 disponible automatiquement dans les différentes rubriques (actualité, boutique, partenaire..)
 
-**Ce projet est disponible avec des explications détaillés ainsi que des illustrations sur [mon site](https://www.rollet-raphael.com/project)**
+**Ce projet est disponible avec des explications détaillées ainsi que des illustrations sur [mon site](https://www.rollet-raphael.com/project)**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LAR4FebhZVo/0.jpg)](https://www.youtube.com/watch?v=LAR4FebhZVo)
 <br>
-Cliquer sur l'image pour voir le projet en vidéo :) (ou découvrir mes tutoriels sur ma chaine youtube)
+
+Cliquer sur l'image pour voir le projet en vidéo :) (ou découvrir les tutoriels sur ma chaine youtube)
 
 **Ne manquer pas de me faire un retour sur le projet !**
 
