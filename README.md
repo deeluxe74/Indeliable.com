@@ -7,8 +7,8 @@
 
 ### La communauté des studios indépendant
 
-**Rassemblez les studios de jeux indépendants, chaque studio apporte une partie de sa communauté pour accroître celle 
-des autres. Une démarche bénéfique pour tous.**
+*Rassemblez les studios de jeux indépendants, chaque studio apporte une partie de sa communauté pour accroître celle 
+des autres. Une démarche bénéfique pour tous.*
 
 Indéliable.com a pour objectif de réunir plusieurs studios indépendants pour partager les avancements, les questions 
 et les objectifs sur leurs projets. Ainsi, ils peuvent proposer leurs jeux directement à la vente dans la boutique IndyStore 
@@ -31,7 +31,7 @@ npm run dev
 Le projet est relié a une base de donnée Firebase pour la création de fiche de jeux. Les caractéristique de la fiche rende le jeux 
 disponible automatiquement dans les différentes rubriques (actualité, boutique, partenaire..)
 
-Ce projet est disponible avec des explications détaillés ainsi que des illustrations sur [mon site](https://www.rollet-raphael.com/project)
+**Ce projet est disponible avec des explications détaillés ainsi que des illustrations sur [mon site](https://www.rollet-raphael.com/project)**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LAR4FebhZVo/0.jpg)](https://www.youtube.com/watch?v=LAR4FebhZVo)
 <br>
